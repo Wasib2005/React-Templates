@@ -2,7 +2,7 @@
 
 ## First Sign In & Sign Up Vite Template
 
-[Live Demo](https://first-singin-singup-vite-template.netlify.app)
+## [Live Demo](https://first-singin-singup-vite-template.netlify.app)
 
 ### Features
 - User-friendly interface for sign-in and sign-up
